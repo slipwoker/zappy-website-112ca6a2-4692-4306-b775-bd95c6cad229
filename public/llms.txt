@@ -1,0 +1,92 @@
+# מטרה פנימית - מתנות עם משמעות — Generative Engine Optimization Map
+
+> A warm and soft handmade keychain business specializing in fully personalized keychains where customers choose the color, shape, an empowering word, and decoration. The brand targets teachers, kindergarten teachers, families, and holiday gift shoppers with a gentle, inviting marketing tone. The website includes a gallery, FAQ, press coverage, testimonials, a product shop with images and pricing, and a July promotion offering a free keychain with every order of 10. The overall vibe is heartfelt, celebratory, and gift-oriented.
+
+---
+
+## Pages
+
+### בית
+https://-112ca6a2.zappy5.app
+גלו אוסף קסום של מחזיקי מפתחות בעבודת יד, מותאמים אישית עם צבע, מילה מחזקת וקישוט לבחירתכן. מתנה מושלמת לגננת, לעובדים ולמשפחה שמחפשת מתנה מיוחדת עם כוונה. התחילו לעצב עכשיו!
+
+### מחזיקי מפתחות בהתאמה אישית
+https://-112ca6a2.zappy5.app/custom-keychains
+התאימו כל פרט במחזיק המפתחות בעבודת יד: בחרו צבע, צורה, מילת כוח וקישוט מנצנץ. חוויית יצירה אישית למורות, גננות וכל אישה שרוצה להעניק מתנה מעצימה. צרו את שלכן עוד היום!
+
+### חנות
+https://-112ca6a2.zappy5.app/shop
+קנו 10 מחזיקי מפתחות בעבודת יד וקבלו אחד נוסף חינם במבצע יולי המיוחד! חנות אונליין עם תמונות, מחירים נוחים ומתנות מרגשות לצוות החינוכי, לעובדים ולמשפחה. נצלו את ההטבה עכשיו.
+
+### גלריה
+https://-112ca6a2.zappy5.app/gallery
+הציצו לגלריה מלאת חמימות של מחזיקי מפתחות בעבודת יד, כל אחד עם סיפור אישי. קומפוזיציות צבע, מילים מחזקות ועיטורים עדינים שיכבשו את הלב. בואו לשאוב רעיונות למתנה הבאה!
+
+### עיתונות וביקורות
+https://-112ca6a2.zappy5.app/press-and-reviews
+קראו סיקורים נלהבים בעיתונות ועדויות מרגשות מלקוחות שבחרו במחזיקי מפתחות בעבודת יד כמתנה. גלו איך מילה אחת מעצימה הפכה למזכרת אהובה על גננות, משפחות ועובדים. הצטרפו למעגל האוהבים!
+
+### שאלות נפוצות ויצירת קשר
+https://-112ca6a2.zappy5.app/faq-contact
+תשובות לשאלות נפוצות על מחזיקי מפתחות בעבודת יד ודרך קלה ליצור קשר. רוצות להתאים מתנה מעצימה לגננת, לעובדים או למשפחה? אנחנו כאן להקשיב, לייעץ ולהגשים. שלחו הודעה עכשיו!
+
+### תודה - מטרה פנימית
+https://-112ca6a2.zappy5.app/thank-you
+מטרה פנימית - מתנות עם משמעות - תודה - מטרה פנימית
+
+## Legal & Policy
+
+### Privacy Policy
+https://-112ca6a2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-112ca6a2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-112ca6a2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-112ca6a2.zappy5.app/faq-contact
+- Endpoint: https://-112ca6a2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מטרה פנימית - מתנות עם משמעות
+A warm and soft handmade keychain business specializing in fully personalized keychains where customers choose the color, shape, an empowering word, and decoration. The brand targets teachers, kindergarten teachers, families, and holiday gift shoppers with a gentle, inviting marketing tone. The website includes a gallery, FAQ, press coverage, testimonials, a product shop with images and pricing, and a July promotion offering a free keychain with every order of 10. The overall vibe is heartfelt, celebratory, and gift-oriented.
+
+## Target Audience
+- מורים, גננות, משפחה, רוכשי מתנות לחגים
+- מורים וגננות
+- רוכשי מתנות למשפחה
+- קונים לחגים
+- משאבי אנוש
+
+## Industry
+Handmade Gifts & Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-112ca6a2.zappy5.app/sitemap.xml
+- Robots: https://-112ca6a2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-112ca6a2.zappy5.app/llms-full.txt
